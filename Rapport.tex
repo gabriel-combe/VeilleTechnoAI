@@ -1,0 +1,77 @@
+\documentclass[12pt, a4paper]{scrbook}
+
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, total={7in, 10in}]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}  
+%\usepackage{fullpage}
+
+\usepackage[table,xcdraw]{xcolor} % pour le tableau du sota
+\usepackage[none]{hyphenat}
+\usepackage{pgf,tikz}
+\usetikzlibrary{babel}
+\usepackage{pgfgantt}
+\usepackage{amsmath}
+\usepackage[ruled, linesnumbered, french, onelanguage]{algorithm2e}
+\usepackage{babel,csquotes}
+\usepackage{listings}
+\usepackage{graphicx}  % pour inclure des images
+\usepackage[arrowdel]{physics} % pour ajouter le symbole des gradients
+\usepackage{subfig}
+\usepackage[section]{placeins}
+\usepackage[toc,page]{appendix}
+\usepackage[hidelinks]{hyperref}
+\usepackage[backend=biber,
+	    style=numeric,
+	    citestyle=numeric]{biblatex}
+
+\renewcommand*{\sfdefault}{\familydefault}
+
+\addbibresource{Bibliographie/references.bib}
+
+\graphicspath{ {./images/} }
+
+
+\title{ L'IA generative pour les interactions dans les jeux videos }
+\subtitle{ Veille Technologique }         % Les paramètres du titre : titre, auteur, date
+\author{ Combe-Ounkham Gabriel }        
+\subject{Université de Paris 8\\
+		ATI\\
+		\emph{M1 ATI}.}
+\date{2024-2025}          
+
+
+\KOMAoptions{open=any}
+\begin{document}
+
+\maketitle
+
+\include{Chapters/Abstract/Abstract}
+
+\tableofcontents \clearpage
+
+\listoffigures \clearpage
+
+\listofalgorithms \clearpage
+
+
+\include{Chapters/Introduction/Introduction}
+
+\include{Chapters/Technologies/Technologies}
+
+\include{Chapters/Developpements_Logiciel/Developpements_Logiciel}
+
+\include{Chapters/Algorithmes_Analyse/Algorithmes_Analyse}
+
+\include{Chapters/Analyse_resultats/Analyse_resultats}
+
+\include{Chapters/Gestion_Projet/Gestion_Projet}
+
+\include{Chapters/Bilan/Bilan}
+
+
+\printbibliography
+
+\include{Annexes/Annexes}
+
+\end{document}

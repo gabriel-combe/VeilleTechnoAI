@@ -1,0 +1,1100 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="#item_744">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tucek</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harshina</foaf:surname>
+                        <foaf:givenName>Kseniia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Samaritaki</foaf:surname>
+                        <foaf:givenName>Georgia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rajesh</foaf:surname>
+                        <foaf:givenName>Dipika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_739"/>
+        <dc:title>One Spell Fits All: A Generative AI Game as a Tool for Research in AI Creativity and Sustainable Design</dc:title>
+        <dcterms:abstract>This paper presents ”One Spell Fits All”, an AI-native game prototype where the player, playing as a witch, solves villagers’ problems using magical conjurations. We show how, beyond being a standalone game, ”One Spell Fits All” could serve as a research platform to explore several key areas in AI-driven and AI-native game design. These areas include AI creativity, user experience in predominantly AI-generated content, and the energy efficiency of locally running versus cloud-based AI models. By leveraging smaller, locally running generative AI models, including LLMs and diffusion models for image generation, the game dynamically generates and evaluates content without the need for external APIs or internet access, offering a sustainable and responsive gameplay experience. This paper explores the application of LLMs in narrative video games, outlines a game prototype’s design and mechanics, and proposes future research opportunities that can be explored using the game as a platform.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_739">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/739/Tucek et al. - One Spell Fits All A Generative AI Game as a Tool for Research in AI Creativity and Sustainable Des.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_745">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Toprac</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_740"/>
+        <dc:title>Automation of Game Development using AI and Other Tools for AAA Video Game Production</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_740">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/740/Toprac - Automation of Game Development using AI and Other Tools for AAA Video Game Production.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2501.08325">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Jiwen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qin</foaf:surname>
+                        <foaf:givenName>Yiran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xintao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wan</foaf:surname>
+                        <foaf:givenName>Pengfei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Di</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Xihui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_741"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>GameFactory: Creating New Games with Generative Interactive Videos</dc:title>
+        <dcterms:abstract>Generative game engines have the potential to revolutionize game development by autonomously creating new content and reducing manual workload. However, existing video-based game generation methods fail to address the critical challenge of scene generalization, limiting their applicability to existing games with fixed styles and scenes. In this paper, we present GameFactory, a framework focused on exploring scene generalization in game video gen‡Corresponding authors. ∗Equal contribution. †Work done during an internship at KwaiVGI, Kuaishou Technology.</dcterms:abstract>
+        <dc:date>2025-01-14</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>GameFactory</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2501.08325</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:06:10</dcterms:dateSubmitted>
+        <dc:description>arXiv:2501.08325 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2501.08325</dc:identifier>
+        <prism:number>arXiv:2501.08325</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_741">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/741/Yu et al. - 2025 - GameFactory Creating New Games with Generative Interactive Videos.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://aber.apacsci.com/index.php/met/article/view/2904">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2810-9791"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ratican</foaf:surname>
+                        <foaf:givenName>Jeremiah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutson</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_742"/>
+        <dc:title>Video game development 3.0: AI-driven collaborative co-creation</dc:title>
+        <dcterms:abstract>The evolution of game development has transitioned from manual coding (Software 1.0) to data-driven Artificial Intelligence (AI) (Software 2.0), and now to a more advanced stage—video game development 3.0. This phase is characterized by AI-driven processes leveraging large language models (LLMs), neural networks, and other AI techniques that autonomously generate code, content, and narratives. This paper explores the foundational technologies underpinning this paradigm shift, including customizable AI modules, dynamic asset creation, and intelligent non player characters (NPCs) that adapt to player interactions. It also highlights the integration of AI with emerging technologies like Virtual Reality (VR), Augmented Reality (AR), and brain-computer interfaces, which are set to further enhance player immersion. Through case studies of AI-driven procedural world creation in No Man’s Sky, dynamic narrative generation in RPGs like Cyberpunk 2077, and AI-assisted esports balancing in League of Legends, the study demonstrates the transformative potential of AI in creating more scalable, adaptive, and personalized game experiences. However, the paper also addresses challenges, such as balancing technical assistance with human creativity and ensuring ethical practices in AI-driven content. Ultimately, this study envisions a future where AI democratizes game development, empowering both indie developers and large studios to create more innovative and inclusive games. The conclusion calls for collaboration among developers, researchers, and players to fully realize the potential of the new generative framework, emphasizing the need for continuous exploration and refinement of AI tools in gaming.</dcterms:abstract>
+        <dc:date>2024-12-17</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Video game development 3.0</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://aber.apacsci.com/index.php/met/article/view/2904</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:06:12</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>2904</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2810-9791">
+        <prism:volume>5</prism:volume>
+        <dc:title>Metaverse</dc:title>
+        <dc:identifier>DOI 10.54517/m2904</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Metaverse</dcterms:alternative>
+        <dc:identifier>ISSN 2810-9791</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_742">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/742/Ratican and Hutson - 2024 - Video game development 3.0 AI-driven collaborative co-creation.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_748">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Jiayun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Junhui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_743"/>
+        <dc:title>Research on the Application of Generative Artificial Intelligence in the Video Game Field</dc:title>
+        <dcterms:abstract>In recent years, with the rapid progress of hardware and computer technology, generative artificial intelligence has achieved unprecedented development. At the same time, video games have become the so-called &quot;ninth art&quot; after painting, architecture and other art categories. In the field of video games, players' requirements for game experience are constantly increasing, and they expect games to provide a richer and more immersive experience. The development of generative artificial intelligence provides new ideas for the game field. Developers can use AI for innovative experiments, explore new game mechanisms and gameplay, and open up infinite possibilities for game design, content creation, and the way players interact. This paper studies the application of generative artificial intelligence in electronic games. It first investigates the current development needs of games and the existing condition of generative artificial intelligence at the current time. This paper discusses and studies three popular related algorithms and lists several popular games that have used generative artificial intelligence in recent years for elaboration.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_743">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/743/Lu and Wang - Research on the Application of Generative Artificial Intelligence in the Video Game Field.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-003-23153-0">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Boca Raton</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>CRC Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chaudhary</foaf:surname>
+                        <foaf:givenName>Vikas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharma</foaf:surname>
+                        <foaf:givenName>Moolchand</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharma</foaf:surname>
+                        <foaf:givenName>Prerna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Agarwal</foaf:surname>
+                        <foaf:givenName>Deevyankar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_749"/>
+        <dc:title>Deep Learning in Gaming and Animations: Principles and Applications</dc:title>
+        <dc:date>2021-10-18</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Deep Learning in Gaming and Animations</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.taylorfrancis.com/books/9781003231530</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:07:07</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1201/9781003231530</dc:description>
+        <dc:identifier>ISBN 978-1-003-23153-0</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_749">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/749/Chaudhary et al. - 2021 - Deep Learning in Gaming and Animations Principles and Applications.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2407.09013">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mao</foaf:surname>
+                        <foaf:givenName>Xinyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Wanli</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yamada</foaf:surname>
+                        <foaf:givenName>Kazunori D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zielewski</foaf:surname>
+                        <foaf:givenName>Michael R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_751"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Procedural Content Generation via Generative Artificial Intelligence</dc:title>
+        <dcterms:abstract>The attempt to utilize machine learning in PCG has been made in the past. In this survey paper, we investigate how generative artiﬁcial intelligence (AI), which saw a signiﬁcant increase in interest in the mid-2010s, is being used for PCG. We review applications of generative AI for the creation of various types of content, including terrains, items, and even storylines. While generative AI is effective for PCG, one signiﬁcant issues it faces is that building high-performance generative AI requires vast amounts of training data. Because content generally highly customized, domainspeciﬁc training data is scarce, and straightforward approaches to generative AI models may not work well. For PCG research to advance further, issues related to limited training data must be overcome. Thus, we also give special consideration to research that addresses the challenges posed by limited training data.</dcterms:abstract>
+        <dc:date>2024-07-12</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2407.09013</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:08:21</dcterms:dateSubmitted>
+        <dc:description>arXiv:2407.09013 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2407.09013</dc:identifier>
+        <prism:number>arXiv:2407.09013</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_751">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/751/Mao et al. - 2024 - Procedural Content Generation via Generative Artificial Intelligence.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ojs.aaai.org/index.php/AIIDE/article/view/31876">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2334-0924,%202326-909X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buongiorno</foaf:surname>
+                        <foaf:givenName>Steph</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klinkert</foaf:surname>
+                        <foaf:givenName>Lawrence</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhuang</foaf:surname>
+                        <foaf:givenName>Zixin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chawla</foaf:surname>
+                        <foaf:givenName>Tanishq</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clark</foaf:surname>
+                        <foaf:givenName>Corey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_752"/>
+        <dc:title>PANGeA: Procedural Artificial Narrative Using Generative AI for Turn-Based, Role-Playing Video Games</dc:title>
+        <dcterms:abstract>Large language models (LLMs) offer unprecedented flexibility in procedural generation, enabling the creation of dynamic video game storylines that evolve with user input. A critical aspect of realizing this potential is allowing players and developers to provide dynamic or free-form text to drive generation. Ingesting free-form text for a video game poses challenges, however, as it can prompt the LLM to generate content beyond the intended narrative scope. In response to this challenge, this research introduces Procedural Artificial Narrative using Generative AI (PANGeA) for leveraging LLMs to create narrative content for turn-based, role-playing games (RPGs). PANGeA is an approach comprised of components including a memory system, validation system, a Unity game engine plug-in, and a server with a RESTful interface that enables connecting PANGeA components with any game engine as well as accessing local and private LLMs. PANGeA procedurally generates level data like setting, key items, non-playable characters (NPCs)), and dialogue based on a set of configuration and design rules provided by the game designer. This process is supported by a novel validation system for handling free-form text input during game development and gameplay, which aligns LLM generation with the narrative. It does this by evoking the LLM's capabilities to dynamically evaluate the text input against game rules that reinforce the designer's initial criteria. To enrich player-NPC interactions, PANGeA uses the Big Five Personality model to shape NPC responses. To explore its broad application, PANGeA is evaluated across two studies. First, this research presents a narrative test scenario of the prototype game, Dark Shadows, which was developed using PANGeA within the Unity game engine. This is followed by an ablation study that tests PANGeA's performance across 10 different role-playing game scenarios–from western to science fiction–and across three model sizes: Llama-3 (8B), GPT-3.5, and GPT-4. These evaluations demonstrate that PANGeA's NPCs can hold dynamic, narrative-consistent conversations that, without the memory system, would exceed the LLM's context length. In addition, the results demonstrate PANGeA's validation system not only aligns LLM responses with the game narrative but also improves the performance of Llama-3 (8B), enabling it to perform comparably to large-scale foundational models like GPT-4. With the validation system, Llama-3 (8B)'s performance improved from 28% accuracy to 98%, and GPT-4's from 71% to 99%. These findings indicate PANGeA can help game designers generate narrative-consistent content while leveraging LLMs of different sizes, suitable for various devices.</dcterms:abstract>
+        <dc:date>2024-11-15</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>PANGeA</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ojs.aaai.org/index.php/AIIDE/article/view/31876</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:08:24</dcterms:dateSubmitted>
+        <bib:pages>156-166</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2334-0924,%202326-909X">
+        <prism:volume>20</prism:volume>
+        <dc:title>Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</dc:title>
+        <dc:identifier>DOI 10.1609/aiide.v20i1.31876</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>AIIDE</dcterms:alternative>
+        <dc:identifier>ISSN 2334-0924, 2326-909X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_752">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/752/Buongiorno et al. - 2024 - PANGeA Procedural Artificial Narrative Using Generative AI for Turn-Based, Role-Playing Video Games.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2501.00078">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Justesen</foaf:surname>
+                        <foaf:givenName>Niels</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaselimi</foaf:surname>
+                        <foaf:givenName>Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Snodgrass</foaf:surname>
+                        <foaf:givenName>Sam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vozaru</foaf:surname>
+                        <foaf:givenName>Miruna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schlegel</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wingren</foaf:surname>
+                        <foaf:givenName>Jonas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barros</foaf:surname>
+                        <foaf:givenName>Gabriella A. B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahlmann</foaf:surname>
+                        <foaf:givenName>Tobias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sudhakaran</foaf:surname>
+                        <foaf:givenName>Shyam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kerr</foaf:surname>
+                        <foaf:givenName>Wesley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Albert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holmgård</foaf:surname>
+                        <foaf:givenName>Christoffer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yannakakis</foaf:surname>
+                        <foaf:givenName>Georgios N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Risi</foaf:surname>
+                        <foaf:givenName>Sebastian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_755"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Human-Computer Interaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Human-like Bots for Tactical Shooters Using Compute-Efficient Sensors</dc:title>
+        <dcterms:abstract>Artificial intelligence (AI) has enabled agents to master complex video games, from first-person shooters like Counter-Strike to real-time strategy games such as StarCraft II and racing games like Gran Turismo. While these achievements are notable, applying these AI methods in commercial video game production remains challenging due to computational constraints. In commercial scenarios, the majority of computational resources are allocated to 3D rendering, leaving limited capacity for AI methods, which often demand high computational power, particularly those relying on pixel-based sensors. Moreover, the gaming industry prioritizes creating human-like behavior in AI agents to enhance player experience, unlike academic models that focus on maximizing game performance. This paper introduces a novel methodology for training neural networks via imitation learning to play a complex, commercial-standard, VALORANT-like 2v2 tactical shooter game, requiring only modest CPU hardware during inference. Our approach leverages an innovative, pixelfree perception architecture using a small set of ray-cast sensors, which capture essential spatial information efficiently. These sensors allow AI to perform competently without the computational overhead of traditional methods. Models are trained to mimic human behavior using supervised learning on human trajectory data, resulting in realistic and engaging AI agents. Human evaluation tests confirm that our AI agents provide human-like gameplay experiences while operating efficiently under computational constraints. This offers a significant advancement in AI model development for tactical shooter games and possibly other genres.</dcterms:abstract>
+        <dc:date>2024-12-30</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2501.00078</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:36:21</dcterms:dateSubmitted>
+        <dc:description>arXiv:2501.00078 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2501.00078</dc:identifier>
+        <prism:number>arXiv:2501.00078</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_755">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/755/Justesen et al. - 2024 - Human-like Bots for Tactical Shooters Using Compute-Efficient Sensors.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/10854898/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2475-1502,%202475-1510"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maciá-Lillo</foaf:surname>
+                        <foaf:givenName>Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jimeno-Morenilla</foaf:surname>
+                        <foaf:givenName>Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mora</foaf:surname>
+                        <foaf:givenName>Higinio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duta</foaf:surname>
+                        <foaf:givenName>Eduard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_756"/>
+        <dc:title>Hybrid Architecture for AI-Based RTS Games</dc:title>
+        <dcterms:abstract>Video games have evolved into a key part of modern culture and a major economic force, with the global market projected to reach $282.30 billion in 2024. As technology advances, video games increasingly demand high computing power, often requiring specialized hardware for optimal performance. Realtime strategy games, in particular, are computationally intensive, with complex artificial intelligence algorithms that simulate numerous units and behaviors in real-time. Specialized gaming PCs are used to run these games, which have a dedicated GPU. Due to the usefulness of GPUs besides gaming, modern processors usually include an integrated GPU, specially in the laptop market. We propose a hybrid architecture that utilizes both the dedicated GPU and the integrated GPU simultaneously, to accelerate AI and physics simulations in video games. The hybrid approach aims to maximize the utilization of all available resources. The AI and physics computations are offloaded from the dedicated GPU to the integrated GPU. Therefore, the dedicated GPU can be used exclusively for rendering, resulting in improved performance. We implemented this architecture in a custom-built game engine using OpenGL for graphics rendering and OpenCL for generalpurpose GPU computations. Experimental results highlight the performance characteristics of the hybrid architecture, including the challenges of working with the two devices and multi-tenant GPU interference.</dcterms:abstract>
+        <dc:date>2025</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/10854898/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:36:25</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/legalcode</dc:rights>
+        <bib:pages>1-14</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2475-1502,%202475-1510">
+        <dc:title>IEEE Transactions on Games</dc:title>
+        <dc:identifier>DOI 10.1109/TG.2025.3533949</dc:identifier>
+        <dcterms:alternative>IEEE Trans. Games</dcterms:alternative>
+        <dc:identifier>ISSN 2475-1502, 2475-1510</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_756">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/756/Maciá-Lillo et al. - 2025 - Hybrid Architecture for AI-Based RTS Games.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://zenodo.org/doi/10.5281/zenodo.13894497">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2583-7672"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jeremiah Ratican1*</foaf:surname>
+                        <foaf:givenName>James Hutson2</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_757"/>
+        <dc:title>Adaptive Worlds: Generative AI in Game Design and Future of Gaming, and Interactive Media</dc:title>
+        <dcterms:abstract>Generative AI is revolutionizing the field of game design, introducing unprecedented adaptability and personalization in gameplay. The latest advancements in AI-driven engines enable real-time content creation, offering dynamic, player-driven experiences that diverge from traditional pre-programmed narratives. This shift marks a transition toward &quot;choose your own adventure&quot; formats, with an unlimited number of variations in levels, enemies, collectibles, and weaponry, tailored to each player's decisions. Google's GameNGen, for example, showcases AI's capacity to recreate classic games like DOOM, learning and generating gameplay in real time. These innovations are not restricted to gaming alone; they extend to edutainment, television, and film, where AI tools such as Cybever allow creators to generate 3D worlds from simple inputs like sketches. Such developments underscore a broader trend in AI’s role in shaping interactive media, providing new opportunities for personalized learning and entertainment experiences. The advent of tools like Notebook LM also blurs the lines between gaming and other media, enabling the creation of AI-written scripts and avatars, enhancing storytelling across platforms. This article explores the transformative potential of generative AI, emphasizing the implications for the future of edutainment, gaming, and beyond.</dcterms:abstract>
+        <dc:date>2024-10-06</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Adaptive Worlds</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zenodo.org/doi/10.5281/zenodo.13894497</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:36:27</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution 4.0 International</dc:rights>
+        <dc:description>Publisher: ISRG Publishers</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2583-7672">
+        <dc:identifier>DOI 10.5281/ZENODO.13894497</dc:identifier>
+        <dc:identifier>ISSN 2583-7672</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_757">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/757/Jeremiah Ratican1 - 2024 - Adaptive Worlds Generative AI in Game Design and Future of Gaming, and Interactive Media.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dergipark.org.tr/en/doi/10.53694/bited.1247338">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2687-492X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ayas</foaf:surname>
+                        <foaf:givenName>Akif Yasin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aydin</foaf:surname>
+                        <foaf:givenName>Hakan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Çeti̇Nkaya</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Güney</foaf:surname>
+                        <foaf:givenName>Zafer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_758"/>
+        <dc:title>Artificial Intelligence (AI)-Based Self-Deciding Character Development Application in Two-Dimensional Video Games</dc:title>
+        <dcterms:abstract>Artificial Intelligence (AI) technologies, which have started to be used in almost all areas of life, are now also used in games. Especially for bot systems that play the game automatically in many popular video games recently, it has become possible for these bots to defeat the grandmasters of the game with advanced Deep Learning (DL) methods. The purpose of this study is to develop an AI-based two-dimensional video game in Unity 2D Game Engine, which can decide what the game characters will do within their abilities. In the game application, the two-dimensional game character is controlled by the user. This character moves in a two-dimensional game plane that is created using procedural plane generation algorithms. In addition, statistics such as the number of enemies defeated and the level reached in the game are recorded. The game is based on the Unity2D game engine and is written in C#. In the study, 8 different experiments are performed. In these experiments, the player's success time in the game with different equipment defined for the character is measured. This time ranges from 0.54 seconds to 1.88 seconds. Today, AI algorithms are developed to play computer games better or to design better games, and new games are designed to improve AI algorithms. In this context, it is evaluated that this study will contribute to the literature on the use of AI in computer games.
+          , 
+            Hayatın hemen her alanında kullanılmaya başlayan Yapay Zekâ (AI) teknolojileri artık oyunlarda da kullanılıyor. Özellikle son zamanlarda birçok popüler video oyununda oyunu otomatik olarak oynayan bot sistemler için bu botların oyunun büyük ustalarını gelişmiş Derin Öğrenme (DL) yöntemleriyle yenmeleri mümkün hale geldi. Bu çalışmanın amacı, oyun karakterlerinin yetenekleri dahilinde ne yapacaklarına karar verebilen, Unity 2D Game Engine'de YZ tabanlı iki boyutlu bir video oyunu geliştirmektir. Oyun uygulamasında iki boyutlu oyun karakteri kullanıcı tarafından kontrol edilmektedir. Bu karakter, prosedürel düzlem oluşturma algoritmaları kullanılarak oluşturulan iki boyutlu bir oyun düzleminde hareket eder. Ayrıca oyunda mağlup edilen düşman sayısı ve ulaşılan seviye gibi istatistikler de kayıt altına alınmaktadır. Oyun Unity2D oyun motoruna dayalıdır ve C# ile yazılmıştır. Çalışmada sekiz farklı deney gerçekleştirilmiştir. Bu deneylerde oyuncunun karakter için tanımlanan farklı ekipmanlarla oyundaki başarı süresi ölçülmektedir. Bu süre 0,54 saniye ile 1,88 saniye arasında değişmektedir. Günümüzde bilgisayar oyunlarını daha iyi oynamak veya daha iyi oyunlar tasarlamak için YZ algoritmaları geliştiriliyor ve YZ algoritmalarını geliştirmek için yeni oyunlar tasarlanıyor. Bu bağlamda, bu çalışmanın YZ’nın bilgisayar oyunlarında kullanımına ilişkin literatüre katkı sağlayacağı değerlendirilmektedir.</dcterms:abstract>
+        <dc:date>2023-06-28</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dergipark.org.tr/en/doi/10.53694/bited.1247338</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:36:29</dcterms:dateSubmitted>
+        <bib:pages>1-19</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2687-492X">
+        <prism:volume>5</prism:volume>
+        <dc:title>Bilgi ve İletişim Teknolojileri Dergisi</dc:title>
+        <dc:identifier>DOI 10.53694/bited.1247338</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 2687-492X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_758">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/758/Ayas et al. - 2023 - Artificial Intelligence (AI)-Based Self-Deciding Character Development Application in Two-Dimensiona.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2410.18975">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Jialu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yuanzhen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wadhwa</foaf:surname>
+                        <foaf:givenName>Neal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pritch</foaf:surname>
+                        <foaf:givenName>Yael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobs</foaf:surname>
+                        <foaf:givenName>David E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rubinstein</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bansal</foaf:surname>
+                        <foaf:givenName>Mohit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ruiz</foaf:surname>
+                        <foaf:givenName>Nataniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_765"/>
+        <link:link rdf:resource="#item_763"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computation and Language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Graphics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Unbounded: A Generative Infinite Game of Character Life Simulation</dc:title>
+        <dcterms:abstract>We introduce the concept of a generative infinite game, a video game that transcends the traditional boundaries of finite, hard-coded systems by using generative models. Inspired by James P. Carse’s distinction between finite and infinite games (Carse, 1986), we leverage recent advances in generative AI to create UNBOUNDED: a game of character life simulation that is fully encapsulated in generative models. Specifically, UNBOUNDED draws inspiration from sandbox life simulations and allows you to interact with your autonomous virtual character in a virtual world by feeding, playing with and guiding it - with open-ended mechanics generated by an LLM, some of which can be emergent. In order to develop UNBOUNDED, we propose technical innovations in both the LLM and visual generation domains. Specifically, we present: (1) a specialized, distilled large language model (LLM) that dynamically generates game mechanics, narratives, and character interactions in real-time, and (2) a new dynamic regional image prompt Adapter (IP-Adapter) for vision models that ensures consistent yet flexible visual generation of a character across multiple environments. We evaluate our system through both qualitative and quantitative analysis, showing significant improvements in character life simulation, user instruction following, narrative coherence, and visual consistency for both characters and the environments compared to traditional related approaches.</dcterms:abstract>
+        <dc:date>2024-10-30</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Unbounded</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2410.18975</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 10:46:06</dcterms:dateSubmitted>
+        <dc:description>arXiv:2410.18975 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2410.18975</dc:identifier>
+        <prism:number>arXiv:2410.18975</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_765">
+        <rdf:value>Comment: Project page: https://generative-infinite-game.github.io/</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_763">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/763/Li et al. - 2024 - Unbounded A Generative Infinite Game of Character Life Simulation.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_767">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kenwright</foaf:surname>
+                        <foaf:givenName>Benjamin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_766"/>
+        <dc:title>Why Player-AI Interaction Research Will Be Critical to the Next Generation of Video Games</dc:title>
+        <dcterms:abstract>Video games are changing, new limits (such as processing power, memory and network speeds), also new technologies and ways of interacting with games (Cognitive Interfaces, Haptics and XR) but most importantly Artificial Intelligence (AI). The technological development of AI around the world is proceeding at an unprecedented pace. This article briefly illustrates the emerging need for more PlayerAI interaction research in Video Games to ensure an appropriate and cohesive integration strategy of AI for aspects of engineering, user experience and safety.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_766">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/766/Kenwright - Why Player-AI Interaction Research Will Be Critical to the Next Generation of Video Games.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S187705092403148X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:18770509"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hardiman</foaf:surname>
+                        <foaf:givenName>Jason Patrick Winarto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thio</foaf:surname>
+                        <foaf:givenName>Dave Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zakiyyah</foaf:surname>
+                        <foaf:givenName>Alfi Yusrotis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Meiliana</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_768"/>
+        <dc:title>AI-powered dialogues and quests generation in role-playing games using Google's Gemini and Sentence BERT framework</dc:title>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S187705092403148X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 11:46:09</dcterms:dateSubmitted>
+        <bib:pages>1111-1119</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:18770509">
+        <prism:volume>245</prism:volume>
+        <dc:title>Procedia Computer Science</dc:title>
+        <dc:identifier>DOI 10.1016/j.procs.2024.10.340</dc:identifier>
+        <dcterms:alternative>Procedia Computer Science</dcterms:alternative>
+        <dc:identifier>ISSN 18770509</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_768">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/768/Hardiman et al. - 2024 - AI-powered dialogues and quests generation in role-playing games using Google's Gemini and Sentence.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-031-62280-9%20978-3-031-62281-6">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>1016</prism:volume>
+                <dc:identifier>ISBN 978-3-031-62280-9 978-3-031-62281-6</dc:identifier>
+                <dc:title>Intelligent Computing</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer Nature Switzerland</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arai</foaf:surname>
+                        <foaf:givenName>Kohei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iarovoi</foaf:surname>
+                        <foaf:givenName>Dmitrii</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hebblewhite</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teh</foaf:surname>
+                        <foaf:givenName>Phoey Lee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_769"/>
+        <dc:title>AI’s Influence on Non-Player Character Dialogue and Gameplay Experience</dc:title>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/978-3-031-62281-6_6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 11:46:11</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Networks and Systems
+DOI: 10.1007/978-3-031-62281-6_6</dc:description>
+        <bib:pages>76-92</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_769">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/769/Iarovoi et al. - 2024 - AI’s Influence on Non-Player Character Dialogue and Gameplay Experience.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_775">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akoury</foaf:surname>
+                        <foaf:givenName>Nader</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salz</foaf:surname>
+                        <foaf:givenName>Ronan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iyyer</foaf:surname>
+                        <foaf:givenName>Mohit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_770"/>
+        <dc:title>Towards Grounded Dialogue Generation in Video Game Environments</dc:title>
+        <dcterms:abstract>Video games provide rich interactive environments that have proven to be great testbeds for AI research in areas such as grounded language generation and reinforcement learning. In this preliminary work, we show that commercial video games can also be an excellent resource for interactive storytelling. We introduce a dataset extracted from the widely acclaimed computer role-playing game Disco Elysium: The Final Cut. With roughly 1.1M words of dialogue spread across a complex graph of possible utterances, the game provides a strong research foundation for interactive storytelling. Furthermore, nodes in the dialogue graph can express conditional logic that permanently alter the game state, and thus affects reachability in the graph. These conditions are encoded in the form of Lua scripts written by the game’s designers. To demonstrate the utility of the dataset, we cluster dialogue based on similarity and linearize all possible utterances for the next turn of dialogue into a Lua script containing a mix of natural language and game logic. We then mask out one utterance from the script and use a large language model to generate a plausible alternative. Analyses of these generations demonstrate the difficulty of this task and suggest future avenues for research, which if successful, have the potential to profoundly impact dialogue writing in video games.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_770">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/770/Akoury et al. - Towards Grounded Dialogue Generation in Video Game Environments.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.ewadirect.com/proceedings/ace/article/view/4569">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2755-2721,%202755-273X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zeng</foaf:surname>
+                        <foaf:givenName>Guanwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_771"/>
+        <dc:title>A review of AI-based game NPCs research</dc:title>
+        <dcterms:abstract>The application of artificial intelligence has increasingly penetrated into the field of game development. Among them, the non-player characters in the game, namely NPC, are part of the applications of AI. The virtual characters in the game characters are collectively called NPC, which enhances the fidelity and complexity of the game by having contact with with the players. Using AI can make NPCs in the game more vivid, thereby increasing the playability of the game and creating more possibilities. This article will review the research and application of AI-based game NPCs in recent years.</dcterms:abstract>
+        <dc:date>2023-10-23</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ewadirect.com/proceedings/ace/article/view/4569</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-14 11:46:15</dcterms:dateSubmitted>
+        <bib:pages>155-159</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2755-2721,%202755-273X">
+        <prism:volume>15</prism:volume>
+        <dc:title>Applied and Computational Engineering</dc:title>
+        <dc:identifier>DOI 10.54254/2755-2721/15/20230827</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>ACE</dcterms:alternative>
+        <dc:identifier>ISSN 2755-2721, 2755-273X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_771">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/771/Zeng - 2023 - A review of AI-based game NPCs research.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_777">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Theune</foaf:surname>
+                        <foaf:givenName>Dr Mariët</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gatti</foaf:surname>
+                        <foaf:givenName>Dr Lorenzo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_772"/>
+        <dc:title>Affective Dialogue Generation for Video Games</dc:title>
+        <dcterms:abstract>Affective text generation has been a topic of interest within the Natural Language Processing community and has been left scarcely explored within the context of the gaming industry. With this project, we aimed to bring the paradigm of affective text generation into video games. This was done by developing a generative language model that generates affective dialogue for the video game Fallout 4, comparing the generated text to human-written one and measuring how accurate it is at exhibiting the correct emotion. To do this we have selected, extracted and pre-processed the Fallout 4 dialogue dataset, then fine-tuned the Generative Pre-trained Transformer (GPT) 2 language model on the prepared data. Afterward, we have implemented the affective extension which incorporates affect into dialogue generation. Using the fine-tuned GPT-2 model together with the Affective Extension and Top-K sampling method, we developed a generation pipeline that generates affective dialogue for Fallout 4 given any in-game prompt string. Then, a human evaluation was performed to compare the responses generated by the model to human-written responses on metrics - Coherence, Relevance, Fittingness and Human-likeness - and to measure how accurate the responses are in exhibiting a given target affect. The results of the survey suggest that the model-generated responses compares poorly to human-written ones on all of the metrics and the responses generated by the model exhibit affects unsuccessfully.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_772">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/772/Theune and Gatti - Affective Dialogue Generation for Video Games.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
